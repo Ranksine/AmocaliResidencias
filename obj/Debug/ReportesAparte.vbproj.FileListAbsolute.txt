@@ -1,0 +1,171 @@
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ReportesAparte.exe.config
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ReportesAparte.exe
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ReportesAparte.pdb
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ReportesAparte.xml
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\EnvDTE.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\stdole.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.vbproj.AssemblyReference.cache
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.vbproj.SuggestedBindingRedirects.cache
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.Form1.resources
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.Resources.resources
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.vbproj.GenerateResource.cache
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.vbproj.CoreCompileInputs.cache
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.vbproj.CopyComplete
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.exe
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.xml
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.pdb
+E:\Tec\ENE-JUN_2022\Desarrollo e Implementacion de Sistemas de Informacion\U3\Practicas\ReportesAparte\obj\Debug\ReportesAparte.frmPrincipal.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.vbproj.AssemblyReference.cache
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frmPrincipal.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frmProcesado.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frmSalidas.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Procesado_Consultas_Menu.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Procesado_Reportes_Menu.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.Resources.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.Recepcion.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.vbproj.GenerateResource.cache
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.vbproj.CoreCompileInputs.cache
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.exe
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.pdb
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Procesado_Consultas_Rango.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Procesado_Consultas_Responsable.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ReportesAparte.exe.config
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ReportesAparte.exe
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ReportesAparte.pdb
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ReportesAparte.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\MySqlConnector.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Buffers.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Memory.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\EnvDTE.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\stdole.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\MySqlConnector.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Buffers.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Memory.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.vbproj.CopyComplete
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Procesado_Consultas_General.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Procesado_Consultas_Fecha.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Reportes_Procesado_General.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Reportes_Procesado_Dialog_Material.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Reportes_Procesado_Dialog_Resp.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Reportes_Procesado_Dialog_Rango.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Reportes_Procesado_Dialog_Fecha.resources
+C:\Users\Omy\Desktop\Tec\ENE-JUN_2023\Proyectos\Amocali\obj\Debug\ReportesAparte.frm_Reportes_Procesado_Dialog_MaterialMasProcesadoRango.resources
